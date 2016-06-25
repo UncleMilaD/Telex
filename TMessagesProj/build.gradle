@@ -63,7 +63,7 @@ android {
         }
     }
 
-    defaultConfig.versionCode = 821
+    defaultConfig.versionCode = 803
 
     sourceSets.main {
         jniLibs.srcDir 'libs'
@@ -114,7 +114,7 @@ android {
     defaultConfig {
         minSdkVersion 14
         targetSdkVersion 23
-        versionName "3.10.1"
+        versionName "4.0"
     }
 }
 
