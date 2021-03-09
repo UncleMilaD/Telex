@@ -16,7 +16,7 @@ There are several things we require from **all developers** for the moment.
 
 ### API, Protocol documentation
 
-Telegram API manuals: https://core.telegram.org/api
+BazarZarin URL : https://bazarzarin.ir/
 
 MTproto protocol manuals: https://core.telegram.org/mtproto
 
